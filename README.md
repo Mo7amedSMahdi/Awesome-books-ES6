@@ -43,18 +43,6 @@ to test or run the application double click on the `index.html` file to open in 
 - Twitter: [@devMo7amed](https://twitter.com/devMo7amed)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/mohammed-mahdi-b20340162/)
 
-👤 **Ranjit Luwang**
-
-- GitHub: [@aboongm](https://github.com/aboongm)
-- Twitter: [@John_luang1](https://twitter.com/John_luang1)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mayengbam-ranjit-luwang-31962418/)
-
-👤 **Melaku Eshetu**
-
-- GitHub: [@melaku05](https://github.com/melaku05)
-- Twitter: [@melaku](https://twitter.com/melaku05)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/melaku-eshetu-b34b36223/)
-
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
