@@ -20,10 +20,6 @@ This is a web site for storing books and authors. using ES6
 - CSS
 - JavaScript
 
-## Live Demo
-
-[Ckeckout The live Site here](https://mo7amedsmahdi.github.io/Awesome-books-ES6/)
-
 ## Getting started
 
 to run the project locally, clone the project using the command
