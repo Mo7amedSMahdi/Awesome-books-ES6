@@ -2,7 +2,7 @@
 
 # Awesome-books
 
-This is a web site for storing books and authors.
+This is a web site for storing books and authors. using ES6
 
 # Screen Shots
 
@@ -22,13 +22,13 @@ This is a web site for storing books and authors.
 
 ## Live Demo
 
-[Ckeckout The live Site here](https://mo7amedsmahdi.github.io/Awesome-books/)
+[Ckeckout The live Site here](https://mo7amedsmahdi.github.io/Awesome-books-ES6/)
 
 ## Getting started
 
 to run the project locally, clone the project using the command
 
-`git clone git@github.com:Mo7amedSMahdi/Awesome-books.git`
+`git clone git@github.com:Mo7amedSMahdi/Awesome-books-ES6.git`
 
 ### Run test
 
@@ -60,10 +60,3 @@ Give a ⭐️ if you like this project!
 - My standup team
 - Microverse team
 - My family's support
-
-## Credit
-
-The original design is created by [@Cindy Shin](https://www.behance.net/adagio07)
-You can check the original design on [@behance](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015)
-
-Thanks for IT.Live [@IT.LIVE](https://www.facebook.com/ITLiveForum)
